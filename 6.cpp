@@ -1,6 +1,6 @@
 //Shift Reducing Parser
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std; 
  
 void show(stack<string> s, vector<string>& in, int i, string a) {
    stack<string> t;
