@@ -1,3 +1,4 @@
+//LR(0) Items
 #include<bits/stdc++.h>
 using namespace std;
 struct I{string l;vector<string>r;int d;};
